@@ -1,0 +1,12 @@
+{
+  "name": "withoutexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverCaraSatu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serverCaraSatu.js"
+  },
+  "author": "izzen",
+  "license": "ISC"
+}
